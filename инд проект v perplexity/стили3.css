@@ -1,0 +1,22 @@
+a{
+  display: inline-block;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #c24191, #e50914);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+a:hover {
+  background: linear-gradient(135deg, #c2276f, #bd27c2);
+  transform: translateY(-2px);
+  
+}
